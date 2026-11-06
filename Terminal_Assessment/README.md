@@ -1,7 +1,6 @@
 # Terminal Assessment — MO-IT162 Math for Machine Learning: Linear Algebra
-### Team A3101 (Esquivel, Fuentebella, Abella, Baluso)
+### Team 1 (Esquivel, Fuentebella, Abella, Baluso)
 
-Terminal Assessment deliverables for the FinMark Corporation case study, covering the full journey from Milestone 1 (data preprocessing and exploratory data analysis) through Milestone 2 (data visualization), consolidated and revised based on mentor feedback.
 
 ## Contents
 
